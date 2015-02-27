@@ -1,0 +1,26 @@
+{
+  "uuid": "6e12c0c4-ee73-4660-9cb8-eb4f4807d0c4",
+  "shortName": "#TheDress",
+  "longName": "#TheDress",
+  "companyName": "Edwin Finch",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type":"png",
+        "menuIcon":true,
+        "name":"IMAGE_THE_DRESS",
+        "file":"thedress.png"
+      }
+    ]
+  }
+}
